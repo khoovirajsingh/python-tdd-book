@@ -381,3 +381,24 @@ console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Err
 1596876698394	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
 1596876709051	Marionette	INFO	Stopped listening on port 51068
+1596884602957	geckodriver	INFO	Listening on 127.0.0.1:49288
+1596884603975	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_l/fd1_wwjn31v5y7yl5db0y3qr0000gp/T/rust_mozprofilexhGzFv"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596884606581	Marionette	INFO	Listening on port 49299
+1596884606615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596884607508	Marionette	INFO	Stopped listening on port 49299
+1596884608836	geckodriver	INFO	Listening on 127.0.0.1:49351
+1596884609846	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_l/fd1_wwjn31v5y7yl5db0y3qr0000gp/T/rust_mozprofilelbPsX1"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596884611786	Marionette	INFO	Listening on port 49362
+1596884611885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596884612676	Marionette	INFO	Stopped listening on port 49362
+1596884613983	geckodriver	INFO	Listening on 127.0.0.1:49404
+1596884614990	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_l/fd1_wwjn31v5y7yl5db0y3qr0000gp/T/rust_mozprofiledwyUUl"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596884616848	Marionette	INFO	Listening on port 49415
+1596884616933	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596884627543	Marionette	INFO	Stopped listening on port 49415
